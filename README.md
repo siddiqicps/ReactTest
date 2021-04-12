@@ -8,3 +8,13 @@
 	npm install
 
 4) Start application using command npm start
+
+5) Application will accessible on localhost default port 3000
+	http://localhost:3000
+
+6) Login credentials
+	username: Testuser1
+	password: Test1@123
+
+	username: Testuser2
+	password: Test2@123
